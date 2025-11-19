@@ -1,6 +1,6 @@
 # Plataforma de Vinculación UNRC - 
 
-Una plataforma web completa para la gestión de servicio social, practicas profesionales y empleo, en la Universidad Nacional Rosario Castellanos, que conecta estudiantes con empresas e instituciones para realizar su servicio social mediante inteligencia artificial.
+Una plataforma web completa para la gestión de servicio social, practicas profesionales y fomento al empleo, en la Universidad Nacional Rosario Castellanos, que conecta estudiantes con empresas e instituciones para realizar cualquier actividad de su interes mediante inteligencia artificial.
 
 ## 🚀 Características Principales
 
@@ -394,3 +394,4 @@ Para soporte técnico o preguntas:
 **Desarrollado con ❤️ para la Universidad Nacional Rosario Castellanos**
 
 *Plataforma de Vinculación Inteligente - Conectando talento con oportunidades*
+
